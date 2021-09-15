@@ -97,5 +97,5 @@ Example:              SELECT TOP 50 * FROM ARSC
 
 Right Click anywhere in the SQL script pane and select  Execute > Execute SQL Statement
 
-=======================================================================================
+========================================================================================
 ![image](https://user-images.githubusercontent.com/15594519/133474386-65bd440c-602d-411e-85ef-343e32c4b921.png)
