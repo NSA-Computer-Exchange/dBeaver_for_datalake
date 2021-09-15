@@ -1,9 +1,9 @@
 # dBeaver_for_datalake
-dBeaver Setup Instructions
+dBeaver Setup Instructions\
+https://dbeaver.io/download
 
 
-	1. Download dBeaver Community from here
-	https://dbeaver.io/download
+	1. Download dBeaver Community from above:
 
 	2. Install dBeaver on your PC or workstation or server
 
