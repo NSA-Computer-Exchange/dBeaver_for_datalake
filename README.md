@@ -48,7 +48,7 @@ Infor ION API > Authorized Apps > Non-Infor New Authorized App > Backend Service
 	Driver Name: Infor Datalake
 	Driver Type: Generic
 	Class Name: com.infor.idl.jdbc.Driver
-	URL Template: jdbc.infordatalake://<tenant name>:.
+	URL Template: jdbc:infordatalake://<tenant name>:.
 
 
 
